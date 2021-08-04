@@ -1,5 +1,5 @@
 # What is this repo ?
-A simple script that allows the native machine webcam to look for trained images. 
+A simple script based on Python 3 that allows the native machine webcam to look for trained images. 
 
 # Dependencies:
 Try to install these modules using pip. E.g pip install cv2 
