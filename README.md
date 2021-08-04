@@ -8,6 +8,6 @@ Use the .bat file to run the script on Windows Powershell.
 Use 'q' or 'Q' to terminate the script.
 
 !!! Important:
-- Make sure you use .jpg image file type.
+- Make sure you use .jpg image file type in the the "./src/training_images" folder.
 - Make sure you use relevant name for the image file.
 
