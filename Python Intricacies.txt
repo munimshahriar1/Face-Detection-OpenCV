@@ -1,0 +1,3 @@
+1. Python Path - C:\Users\saidu\AppData\Local\Programs\Python
+
+2. Python Packages - C:\Users\saidu\AppData\Local\Programs\Python\Python38\Lib\site-packages
