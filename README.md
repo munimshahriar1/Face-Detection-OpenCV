@@ -25,3 +25,5 @@ pip install -r requirements\requirements.txt
 ```
 python face-recognition.py
 ```
+4. Press 'Q' or 'q' to stop.
+
