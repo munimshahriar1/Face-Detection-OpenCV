@@ -17,11 +17,11 @@ pip install -r requirements\requirements.txt
 ```
 # How to run ?
 
-Firstly train the model using sample image in the "./src/training_images" folder (make sure to use .jpg image)
+1. Train the model using sample image in the "./src/training_images" folder (make sure to use .jpg image)
 
-Secondly, make sure you use relevant name for the images. E.g if you put an image  of Barack Obama in the folder make sure you name it "Barack Obama.jpg"
+2. Make sure you use relevant name for the images. E.g if you put an image  of Barack Obama in the folder make sure you name it "Barack Obama.jpg"
 
-To run the script use the following command - 
+3. Run the script using the following command - 
 ```
 python face-recognition.py
 ```
