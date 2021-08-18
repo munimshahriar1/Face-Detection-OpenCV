@@ -6,9 +6,9 @@ A simple script based on Python 3 that allows the native machine webcam to look 
 Step 1: Create a separate Python Virtual Environment (preferably Python > 3.6)
 
 Step 2: Install the dependencies using the following command - 
-'''
+```
 pip install -r requirements\requirements.txt
-'''
+```
 
 
 # Dependencies: 
